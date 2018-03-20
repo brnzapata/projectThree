@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.example.android.quizapp.HomeActivity">
+
+
+    <ImageView
+        android:id="@id/home_activity_wallpaper"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:scaleType="centerCrop"
+        android:src="@drawable/oot_wallpaper" />
+
+    <TextView
+        android:id="@id/home_activity_quiz_intro"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="@dimen/quizIntroWelcomeMargin"
+        android:gravity="center"
+        android:text="@string/quiz_intro"
+        android:textColor="@color/quizIntroRed"
+        android:textSize="@dimen/instructionsTextSize"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@id/start_quiz_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@id/home_activity_wallpaper"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="@dimen/quizIntroStartButtonMargin"
+        android:background="@color/quizIntroRed"
+        android:text="@string/home_activity_start_button"
+        android:textStyle="bold"
+        android:onClick="startQuiz" />
+
+
+</RelativeLayout>

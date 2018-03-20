@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#4cb23b</color>
+    <color name="colorPrimaryDark">#008100</color>
+    <color name="colorAccent">#FFFF00</color>
+    <color name="quizIntroRed">#990000</color>
+    <color name="zeldaGreen">#00B200</color>
+    <color name="gold">#FFBF00</color>
+    <color name="yellow">#FFFF00</color>
+    <color name="black">#000000</color>
+</resources>

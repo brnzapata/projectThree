@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- WALLPAPERS -->
+    <item type="id" name="home_activity_wallpaper" />
+
+    <!-- INSTRUCTIONS -->
+    <item type="id" name="home_activity_quiz_intro" />
+    <item type="id" name="quiz_intsructions" />
+
+    <!-- QUESTIONS -->
+    <item type="id" name="question_one" />
+    <item type="id" name="question_two" />
+    <item type="id" name="question_three" />
+    <item type="id" name="question_four" />
+    <item type="id" name="question_five" />
+    <item type="id" name="question_six" />
+    <item type="id" name="question_seven" />
+    <item type="id" name="question_eight" />
+    <item type="id" name="question_nine" />
+    <item type="id" name="question_ten" />
+
+    <!-- RadioGroup -->
+    <item type="id" name="radio_group_question_three" />
+    <item type="id" name="radio_group_question_four" />
+    <item type="id" name="radio_group_question_seven" />
+    <item type="id" name="radio_group_question_nine" />
+
+    <!--RADIOBUTTONS-->
+    <!--QUESTION THREE RADIOBUTTON IDs-->
+    <item type="id" name="rb_question_three_answer_a" />
+    <item type="id" name="rb_question_three_answer_b" />
+    <item type="id" name="rb_question_three_answer_c" />
+    <item type="id" name="rb_question_three_answer_d" />
+    <!--QUESTION FOUR RADIOBUTTON IDs-->
+    <item type="id" name="rb_question_four_answer_a" />
+    <item type="id" name="rb_question_four_answer_b" />
+    <item type="id" name="rb_question_four_answer_c" />
+    <item type="id" name="rb_question_four_answer_d" />
+    <!--QUESTION SEVEN RADIOBUTTON IDs-->
+    <item type="id" name="rb_question_seven_answer_a" />
+    <item type="id" name="rb_question_seven_answer_b" />
+    <item type="id" name="rb_question_seven_answer_c" />
+    <item type="id" name="rb_question_seven_answer_d" />
+    <!--QUESTION NINE RADIOBUTTON IDs - This question only has two options: TRUE or FALSE-->
+    <item type="id" name="rb_question_nine_answer_a" />
+    <item type="id" name="rb_question_nine_answer_b" />
+
+    <!--CHECKBOXES-->
+    <!--QUESTION FIVE CHECKBOX IDs-->
+    <item type="id" name="cb_question_five_answer_a" />
+    <item type="id" name="cb_question_five_answer_b" />
+    <item type="id" name="cb_question_five_answer_c" />
+    <item type="id" name="cb_question_five_answer_d" />
+    <!--QUESTION SIX CHECKBOX IDs-->
+    <item type="id" name="cb_question_six_answer_a" />
+    <item type="id" name="cb_question_six_answer_b" />
+    <item type="id" name="cb_question_six_answer_c" />
+    <item type="id" name="cb_question_six_answer_d" />
+    <!--QUESTION EIGHT CHECKBOX IDs-->
+    <item type="id" name="cb_question_eight_answer_a" />
+    <item type="id" name="cb_question_eight_answer_b" />
+    <item type="id" name="cb_question_eight_answer_c" />
+    <item type="id" name="cb_question_eight_answer_d" />
+    <!--QUESTION TEN CHECKBOX IDs-->
+    <item type="id" name="cb_question_ten_answer_a" />
+    <item type="id" name="cb_question_ten_answer_b" />
+    <item type="id" name="cb_question_ten_answer_c" />
+    <item type="id" name="cb_question_ten_answer_d" />
+
+    <!-- EDIT TEXT  -->
+    <item type="id" name="edit_text_question_one" />
+    <item type="id" name="edit_text_question_two" />
+
+    <!-- BUTTONS -->
+    <item type="id" name="start_quiz_button" />
+    <item type="id" name="submit_button" />
+</resources>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- TEXT SIZE DIMENS -->
+    <dimen name="instructionsTextSize">24sp</dimen>
+    <dimen name="questionTextSize">18sp</dimen>
+
+    <!-- PADDING DIMEN -->
+    <dimen name="generalPadding">16dp</dimen>
+    <dimen name="questionsPadding">8dp</dimen>
+
+    <!-- MARGIN DIMENS -->
+    <dimen name="quizIntroWelcomeMargin">32dp</dimen>
+    <dimen name="quizIntroStartButtonMargin">64dp</dimen>
+    <dimen name="questionsBottomAndTopMargin">8dp</dimen>
+</resources>

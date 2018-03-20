@@ -1,0 +1,72 @@
+<resources>
+    <string name="app_name">Quiz App</string>
+    <!-- INSTRUCTIONS -->
+    <string name="quiz_intro">Welcome!\n Tap the START button below to begin the quiz!</string>
+    <string name="zelda_quiz_instructions">Read the questions below and select the best answer(s)\n tap SUBMIT when you have finished the quiz</string>
+
+    <!-- QUESTIONS -->
+    <string name="question_one">1) What is the first song that Link learns as a child?</string>
+    <string name="question_two">2) How many madallions are there?</string>
+    <string name="question_three">3) Ganondorf is the king of whom?</string>
+    <string name="question_four">4) How many Gold Skulltulas are in the game?</string>
+    <string name="question_five">5) What are the three parts of the Triforce?</string>
+    <string name="question_six">6) What elements did Twinrova use to fight Link?</string>
+    <string name="question_seven">7) When was The Legend of Zelda: Ocarina of Time ORIGINALLY released?</string>
+    <string name="question_eight">8) What spiritual stones are needed to open the door of the Sacred Realm?</string>
+    <string name="question_nine">9) True or False: Link starts the game with the Ocarina of Time?</string>
+    <string name="question_ten">10) What temple(s) appear in the game?</string>
+
+    <!--ANSWERS TO QUESTIONS ONE AND TWO-->
+    <!--<string name="input_question_zero_answer">Zelda\'s Lullaby</string>-->
+    <!--<string name="question_two_answer">Six</string>-->
+
+    <!--Checkbox Answer Options-->
+    <!--QUESTION FIVE-->
+    <string name="question_five_answer_a">Power</string>
+    <string name="question_five_answer_b">Wisdom</string>
+    <string name="question_five_answer_c">Bravery</string>
+    <string name="question_five_answer_d">Courage</string>
+    <!--QUESTION SIX-->
+    <string name="question_six_answer_a">Lightning</string>
+    <string name="question_six_answer_b">Ice</string>
+    <string name="question_six_answer_c">Water</string>
+    <string name="question_six_answer_d">Fire</string>
+    <!--QUESTION EIGHT-->
+    <string name="question_eight_answer_a">Goron Ruby</string>
+    <string name="question_eight_answer_b">Gossip Stone</string>
+    <string name="question_eight_answer_c">Kokiri Emerald</string>
+    <string name="question_eight_answer_d">Zora Saphire</string>
+    <!--QUESTION TEN-->
+    <string name="question_ten_answer_a">Fire Temple</string>
+    <string name="question_ten_answer_b">Earth Temple</string>
+    <string name="question_ten_answer_c">Lakebed Temple</string>
+    <string name="question_ten_answer_d">Sprit Temple</string>
+
+    <!-- RadioButton Answer Options-->
+    <!--QUESTION THREE-->
+    <string name="question_three_answer_a">Gerudos</string>
+    <string name="question_three_answer_b">Hylians</string>
+    <string name="question_three_answer_c">Gorons</string>
+    <string name="question_three_answer_d">Zoras</string>
+    <!--QUESTION FOUR-->
+    <string name="question_four_answer_a">900</string>
+    <string name="question_four_answer_b">6</string>
+    <string name="question_four_answer_c">100</string>
+    <string name="question_four_answer_d">12</string>
+    <!--QUESTION SEVEN-->
+    <string name="question_seven_answer_a">2017</string>
+    <string name="question_seven_answer_b">2003</string>
+    <string name="question_seven_answer_c">2011</string>
+    <string name="question_seven_answer_d">1998</string>
+    <!--QUESTION NINE - This question only has two options: TRUE or FALSE-->
+    <string name="question_nine_answer_a">True</string>
+    <string name="question_nine_answer_b">False</string>
+
+
+    <!-- EDITTEXT HINT -->
+    <string name="question_edit_text">Type your answer here</string>
+
+    <!-- BUTTONS -->
+    <string name="home_activity_start_button">START</string>
+    <string name="submit_button">SUBMIT</string>
+</resources>
